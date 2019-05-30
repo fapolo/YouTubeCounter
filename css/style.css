@@ -5,3 +5,17 @@
 .subscribers{
     color: #ff0000
 }
+
+.disclaimer {
+	font-size: 0.8rem;
+	color: #999;
+}
+
+.disclaimer a {
+	text-decoration: underline;
+	color: inherit;
+}
+
+.disclaimer a:hover {
+	color: orangered;
+}
